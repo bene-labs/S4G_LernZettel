@@ -93,9 +93,10 @@
 
 ### Was macht ein gutes Spiel aus?
 - **Eine starke Vision!**
-![image](https://user-images.githubusercontent.com/62158116/200346849-f5902112-3d80-4426-9ddb-22c24a4986bf.png)
+- ![image](https://user-images.githubusercontent.com/62158116/200346849-f5902112-3d80-4426-9ddb-22c24a4986bf.png)
 - Gerichtet an Zielgruppe
-  - Player Types laut Richard Bartle ![image](https://user-images.githubusercontent.com/62158116/200347337-7ef610d3-bdf3-45fb-a423-3570668cbeff.png)
+  - Player Types laut Richard Bartle 
+  - ![image](https://user-images.githubusercontent.com/62158116/200347337-7ef610d3-bdf3-45fb-a423-3570668cbeff.png)
 - Schafft Player Retention (sorgt dafür das Spieler beim Spiel bleiben)
 ![image](https://user-images.githubusercontent.com/62158116/200349576-1c4c46bc-9aba-4b1d-a74e-7261dfdd741a.png)
 
