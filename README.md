@@ -30,7 +30,7 @@
   - Meshes (Silhouette, Aufbau, Teschnische Qualität)
   - Animationen (Wirkung, Durchführung, Tempo)
   - Varianz (Vielfalt, Variationen, Abwechslung)
-  - Interface (Lesbarkeit, Feddback, Konsitenz)
+  - Interface (Lesbarkeit, Feedback, Konsitenz)
   - Gesamtkomposition (Atmosphäre, Konsitenz, Zusammenspiel)
 - Sound
 - Gameplay
