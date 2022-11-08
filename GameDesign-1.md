@@ -121,3 +121,31 @@ Unterhaltungs-Aktivität.`
 #### Live Support
 ![image](https://user-images.githubusercontent.com/62158116/200610449-2a5d219c-d296-43fd-9b35-d4e721817f8e.png)
 
+## Game Loops
+- Das was Spieler immer und immer wieder tun
+- Wichtiges Tool um Produktion zu fokussieren
+- Core Gameplay Loops werden in der Regel hunderte male wiederholt →
+Polishing wichtig
+- Micro -> Macro (kleine Loops können Teil von größeren sein)
+### Aufbau
+![Loops](https://user-images.githubusercontent.com/62158116/200631393-61710305-9322-4f06-b6d0-fe0a0a04f7f7.png)
+
+- Offgame Aktion (z.B. Ziel ausmachen)
+  - passiert ausserhalb des Spiel
+  - keine (klar definierten) Regeln
+  - der Spieler muss in der Lage sein, die Aktion durchzuführen
+- Ingame Aktion (z.B. Schießen)
+  - passiert innerhalb des Spiels
+  - sollte verständlich uns spaßig sein
+- Reactions / Feedback
+  - Fortschritt und Belohnung passieren meist hier
+  - es muss klar sein, was passiert
+  - sorgt oft zu Veränderungen im System (z.B. neues Level)
+
+### Core Gameplay Loop
+- Muss geschlossen sein
+- Passiert wiederholt (Sekunden- oder Minuten takt)
+- Darf nicht zu generisch sein
+- Stellt oft auch die "Game Economy" dar
+
+<img width="594" alt="image" src="https://user-images.githubusercontent.com/62158116/200632771-13912734-7d2d-4c49-88b6-6b9af1f57e3c.png">
