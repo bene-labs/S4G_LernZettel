@@ -1,9 +1,9 @@
 # Game Design I
 
 ## Definition
-- Was ist Design?
+### Was ist Design?
   ![Capture1](https://user-images.githubusercontent.com/62158116/200593278-eab546c1-4562-4c63-a77d-52c84cd5e40b.PNG)
-- Was tut ein/e Game Designer/in?
+### Was tut ein/e Game Designer/in?
   ![image](https://user-images.githubusercontent.com/62158116/200593513-743742b2-68f7-4bec-b141-fc78f6ff9c60.png)
 
 ## Elemente eines Spiels
@@ -25,8 +25,8 @@ Unterhaltungs-Aktivität.`
 - Rahmenbedigungen:
   ![image](https://user-images.githubusercontent.com/62158116/200596380-623f9324-a6e8-419e-a968-773ec3d3b220.png)
 - Zielgruppen:
-  - Fähigen der Spieler beachten
-  - Was macht den Spielern Spass?
+  - Fähigkeiten der Spieler beachten
+  - Was macht den Spielern Spaß?
   - <figure>
     <img src="https://user-images.githubusercontent.com/62158116/200597137-b36c90ec-770c-4a6b-a913-348100b7b3f9.png"
          alt="Player Types">
@@ -34,7 +34,7 @@ Unterhaltungs-Aktivität.`
 </figure>
 
 ### Ziele
-`Der Zweck der Bemühung der Spielers, das erwünschte Resultat.`
+`Der Zweck der Bemühung des Spielers, das erwünschte Resultat.`
 - Sind klar und (gefühlt) erreichbar
 - Sind verschachtelt
 - Machen Fortschritt deutlich
@@ -86,3 +86,29 @@ Unterhaltungs-Aktivität.`
 
 ### Interaktion
 ![image](https://user-images.githubusercontent.com/62158116/200604015-5d17b55e-f08b-439d-80ac-a44d2bd2d2d9.png)
+
+## Game Design in der Produktion
+
+### Design Dokumentation
+- dient Kommunikation und "Gedächtnis"
+- hält Entscheidungen fest
+- ist ein lebendiges Dokument (niemals fertig)
+- kommt (normalerweise) vor der Produktion
+- arbeiter von innen nach aussen
+- beinhaltet Informationen zu allen Bereichen
+
+#### Wichtig ist:
+- Zielgruppe beachten (wer liest es?)
+- Informationshierachie schaffen
+- Lesen spaßig machen (nicht nur reiner Text)
+- Klare Definitionen setzen
+- Regeln und Balancing nicht vermischen
+- "Der Prozess ist wichtiger als die Menge"
+#### Aufbau
+![image](https://user-images.githubusercontent.com/62158116/200606545-b0f4a591-4386-4817-82ba-958eec07c23e.png)
+
+### Anatomie einer Spielproduktion
+![image](https://user-images.githubusercontent.com/62158116/200606707-b6d145ee-bb77-414f-8308-c39e1835f430.png)
+- **Alpha** = "feauture-complete"
+- **Beta** = "content-complete"
+- **Gold** = "Ready-for-release"
