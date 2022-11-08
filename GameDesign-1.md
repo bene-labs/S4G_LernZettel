@@ -104,8 +104,6 @@ Unterhaltungs-Aktivität.`
 - Klare Definitionen setzen
 - Regeln und Balancing nicht vermischen
 - "Der Prozess ist wichtiger als die Menge"
-#### Aufbau
-![image](https://user-images.githubusercontent.com/62158116/200606545-b0f4a591-4386-4817-82ba-958eec07c23e.png)
 
 ### Anatomie einer Spielproduktion
 ![image](https://user-images.githubusercontent.com/62158116/200606707-b6d145ee-bb77-414f-8308-c39e1835f430.png)
@@ -116,6 +114,8 @@ Unterhaltungs-Aktivität.`
 ![image](https://user-images.githubusercontent.com/62158116/200610199-10553464-b4c7-481f-b42a-67e96496b940.png)
 - Vertical Slice = Teil des Spiels in seiner finalen Form
 - Prototyp = Test um die Funktionalität eines Features/Systems zu überprüfen
+##### Aufbau eines Vision Docs:
+![image](https://user-images.githubusercontent.com/62158116/200606545-b0f4a591-4386-4817-82ba-958eec07c23e.png)
 #### Production
 ![image](https://user-images.githubusercontent.com/62158116/200610282-3d974be8-8bab-42b3-9c77-57bb89d5684e.png)
 #### Live Support
