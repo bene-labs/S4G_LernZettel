@@ -112,3 +112,12 @@ Unterhaltungs-Aktivität.`
 - **Alpha** = "feauture-complete"
 - **Beta** = "content-complete"
 - **Gold** = "Ready-for-release"
+#### Pre-Production
+![image](https://user-images.githubusercontent.com/62158116/200610199-10553464-b4c7-481f-b42a-67e96496b940.png)
+- Vertical Slice = Teil des Spiels in seiner finalen Form
+- Prototyp = Test um die Funktionalität eines Features/Systems zu überprüfen
+#### Production
+![image](https://user-images.githubusercontent.com/62158116/200610282-3d974be8-8bab-42b3-9c77-57bb89d5684e.png)
+#### Live Support
+![image](https://user-images.githubusercontent.com/62158116/200610449-2a5d219c-d296-43fd-9b35-d4e721817f8e.png)
+
