@@ -136,7 +136,7 @@ Polishing wichtig
   - der Spieler muss in der Lage sein, die Aktion durchzuführen
 - Ingame Aktion (z.B. Schießen)
   - passiert innerhalb des Spiels
-  - sollte verständlich uns spaßig sein
+  - sollte verständlich und spaßig sein
 - Reactions / Feedback
   - Fortschritt und Belohnung passieren meist hier
   - es muss klar sein, was passiert
