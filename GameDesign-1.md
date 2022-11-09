@@ -94,7 +94,7 @@ Unterhaltungs-Aktivität.`
 - hält Entscheidungen fest
 - ist ein lebendiges Dokument (niemals fertig)
 - kommt (normalerweise) vor der Produktion
-- arbeiter von innen nach aussen
+- arbeitet von außen nach innen
 - beinhaltet Informationen zu allen Bereichen
 
 #### Wichtig ist:
