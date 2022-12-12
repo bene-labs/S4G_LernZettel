@@ -97,3 +97,25 @@ Quadratic | <img width="98" alt="image" src="https://user-images.githubuserconte
 ### Farbstimmung / Deutung
 <img width="95%" alt="image" src="https://user-images.githubusercontent.com/62158116/207068134-2965ece7-fc40-41df-97c2-7b420c70a998.png">
 - Farben werden mit Emotionen und Bedeutungen verbunden, teilweise auf Basis ihrer Wärme oder ihrer historischen Bedeutung.
+
+## Komposition
+> "Never make two Intervals the same"
+- Varianz und Asymetrie machen Bilder interessanter
+- Ist ein Bild zu gleichmäßig oder symetrisch, so wirkt dies unatürlich und langweilig.
+
+<img width="95%" alt="image" src="https://user-images.githubusercontent.com/62158116/207070235-72e8f472-20a3-4994-b9e3-2aef91c9b86c.png">
+<img width="95%" alt="image" src="https://user-images.githubusercontent.com/62158116/207070306-83ad3b34-d2c3-4ce8-8ae9-6699e698a78e.png">
+
+### Focalpoint = Mittlelpunkt
+- Komposition haben meist einen Mittlelpunkt auf den der Blick zuerst geleiter wird.
+  - Dies kann über Bildverlaufs-linien oder einem hervorstehendem Merkmal erzeugt werden.
+ <img width="90%" alt="image" src="https://user-images.githubusercontent.com/62158116/207071847-335eea5e-76fd-44f7-a78d-01f8b146f708.png">
+ 
+ ## Basic Shapes
+ |Form|Bedeutung|
+ |----|---------|
+ |Kreis| unschuld, feminin, friedlich
+ |Quadrat| stabil, dickköpfig, ruhig, erwachsen
+ |Dreieck| Aggression, Energie, maskulin
+ 
+ <img width="371" alt="image" src="https://user-images.githubusercontent.com/62158116/207072742-db8f8583-dcaa-4192-b6da-e4293df33a9f.png">
