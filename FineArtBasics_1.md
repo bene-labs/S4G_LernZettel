@@ -49,4 +49,30 @@ Der Wandel kann an den Folgenden Werken veranschaulicht werden:
   5. AO + Shadow + Color
  <img width="338" alt="image" src="https://user-images.githubusercontent.com/62158116/207051902-9df455d6-ea3e-4b5a-a126-fbbb83d943f9.png">
  
- ##
+## Perspektive
+
+### Arten der Perspektive
+- Normalperspektive / Zentralperspektive: von vorne, auf Augenhöhe
+- Froschperspektive: von unten
+- Vogelperspektive: von oben
+- Kreativperspektive: Tricksen mit der Perspektive
+  <img width="200" alt="image" src="https://user-images.githubusercontent.com/62158116/207058232-beebc4d8-22a6-4863-996b-98152ff03c11.png">
+- Panoramaperspektive oder „Totale“: besonders weiter Winkel
+- Halbtotale: etwas näher als die Totale
+- Nahperspektive / Großaufnahme / Makro: Nahaufnahme, Details werden hervorgehoben.
+- Bauchnabelperspektive: Höhe des Bauchnabels, schmeichelt Proportionen
+
+### Wichtige Begriffe
+- Horizon Line: fiktive Line welche die Augenhöhe des Betrachterst dartsellt
+- Vanishing Points = Fluchtpunkt: Punkte in dem sich die Perspektivlinien vereinen. Dienen als Hilfsmittel beim perspektivischen Malen.
+
+### Anwendung der Fluchtpunkte
+- ![image](https://user-images.githubusercontent.com/62158116/207061879-92978256-eaec-48dc-9d90-abda01e622b1.png)
+- Perspective Grid = Fadengitter: Hilfsgitter aus Perspekitvslinien mit dem sich 3D Raum auf eine 2D Zeichnung übetragen lässt. ![image](https://user-images.githubusercontent.com/62158116/207062730-6b697f9a-33cf-4baa-9077-3358f471e0f0.png)
+
+### Atomospherische Perspektive
+![image](https://user-images.githubusercontent.com/62158116/207063465-aae02851-16e6-4348-ad85-3b069e5cee4a.png)
+- Hintergrundobjekte erscheinen heller und verschwommender
+  - Sie werden von der Atmosphäre "verschluckt"
+
+
