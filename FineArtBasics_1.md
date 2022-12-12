@@ -3,7 +3,7 @@
 ## Was ist "Fine Art"?
 ### Traditionelle Deutung:
 - Dient primär der Ästhetik und Schönheit
-- Dekorative oder angewandte Kunst mit einer gewissen "prakitschen Funktion" (z.B. Zier-Vasen)
+- Unterschied zur dekorativen oder angewandten Kunst mit einer gewissen "prakitschen Funktion" (z.B. Zier-Vasen)
 
 ### Historischer Wandel
 Was genau als "Fine Art" zählt hat sich im Lauf der Zeit stark geändert und wird immernoch viel debatiert.
@@ -75,4 +75,25 @@ Der Wandel kann an den Folgenden Werken veranschaulicht werden:
 - Hintergrundobjekte erscheinen heller und verschwommender
   - Sie werden von der Atmosphäre "verschluckt"
 
+## Farbtheorie
 
+<img width="359" alt="image" src="https://user-images.githubusercontent.com/62158116/207064643-dcfb96a9-a834-4efe-9a59-97831c2c0cbe.png">
+<img width="364" alt="image" src="https://user-images.githubusercontent.com/62158116/207064701-ef95daa0-3b50-49ae-8123-d7784d795950.png">
+
+- Farben werden normalerweise an Schwarzwerten orientiert
+  - Vincent van Gogh war post impressionistisch und wiedersetze sich dieser Herangehensweise
+
+### Farbkontraste
+![image](https://farbtonkarte.de/wp-content/uploads/2020/05/Warme-und-Kalte-Farben.png)
+
+#### Arten von Kontrasten
+Name | Bild
+-----|-----
+Complementry (Komplementär) | <img width="95" alt="image" src="https://user-images.githubusercontent.com/62158116/207067390-ec895141-cf8c-43a1-b803-cca8e874863d.png">
+Split Complementy | <img width="98" alt="image" src="https://user-images.githubusercontent.com/62158116/207067610-dd8b2e56-7b28-40ef-9657-d08cc0b23b44.png">
+Trio |<img width="87" alt="image" src="https://user-images.githubusercontent.com/62158116/207067202-25f37b08-f8cb-43f4-8d05-0714eee2b2a6.png">
+Quadratic | <img width="98" alt="image" src="https://user-images.githubusercontent.com/62158116/207067715-767eb4ba-5c2b-4cad-8254-1de42f4a784f.png">
+
+### Farbstimmung / Deutung
+<img width="95%" alt="image" src="https://user-images.githubusercontent.com/62158116/207068134-2965ece7-fc40-41df-97c2-7b420c70a998.png">
+- Farben werden mit Emotionen und Bedeutungen verbunden, teilweise auf Basis ihrer Wärme oder ihrer historischen Bedeutung.
